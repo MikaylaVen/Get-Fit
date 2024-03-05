@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Get-Fit/static/css/main.a15d3956.css",
+    "main.js": "/Get-Fit/static/js/main.42c2e7ec.js",
+    "static/js/453.6d05fb8a.chunk.js": "/Get-Fit/static/js/453.6d05fb8a.chunk.js",
+    "index.html": "/Get-Fit/index.html",
+    "main.a15d3956.css.map": "/Get-Fit/static/css/main.a15d3956.css.map",
+    "main.42c2e7ec.js.map": "/Get-Fit/static/js/main.42c2e7ec.js.map",
+    "453.6d05fb8a.chunk.js.map": "/Get-Fit/static/js/453.6d05fb8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15d3956.css",
+    "static/js/main.42c2e7ec.js"
+  ]
+}
